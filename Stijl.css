@@ -1,0 +1,114 @@
+*{
+  font-family: "Montserrat";
+}
+
+.navbar{
+  background-color:#282d32;
+  padding: 10px;
+}
+
+#naamBedrijf{
+  color:bisque;
+  background-color: #282d32;
+  text-align: center;
+}
+
+#naamBedrijf span{
+  font-weight: 1000;
+  color: greenyellow;
+}
+
+header a, header a:link, header a:visited {
+  font-weight: 1000;  
+  color: #f7931A;
+  text-decoration: none;    
+}
+
+section {
+  margin: 5% 10% 5% 10%;
+}
+
+#home-section1 h1{ 
+  color: purple;
+  padding:0 20px 0 20px;
+}
+
+#home-section1 p{
+  color:black;
+  font-weight: 900;
+  padding:0 20px 0 20px;
+}
+#home-section1 .b-image{
+  padding-bottom:50px;
+  border: solid 3px purple;
+  background-repeat: no-repeat;
+}
+
+#home-section2 .card-title{
+text-align: center;
+color: blue;
+font-weight: 900;
+}
+
+#home-section2 .card-text{
+  text-align: center;
+  color: black;
+  font-weight: 900;
+}
+
+#home-section2 .card-footer{
+  text-align: center;
+  width: 100%;
+}
+
+#home-section2 .btn{
+  width: 70%;
+}
+
+#kampen-section1 .card-title{
+  color:blue;
+  font-weight: 900;
+}
+
+#kampen-section1 .card-text{
+  color: black;
+  font-weight: 900;
+}
+
+form{
+  color: blue;
+  font-weight: 900;
+}
+
+footer{
+  color:bisque;
+  background-color:#282d32;
+}
+
+header a:link, header a:visited {
+   color: #f7931A;
+   text-decoration: none;
+}
+
+
+.footer-info li{
+margin-bottom: 10px;
+
+}
+
+.footer-info i{
+  font-size: large;
+  margin-right:25px;
+}
+
+.footer-info h5{
+  font-weight: 900;
+  margin-bottom: 25px;
+}
+
+.social-buttons a{
+  margin-left:25px ;
+  color: bisque  ;
+  text-decoration: none;
+  font-size: x-large;
+}
